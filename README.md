@@ -48,7 +48,7 @@
 - [Code Complete](http://www.cc2e.com/Default.aspx)
 
 
-#### Ruby(/ruby/ruby.md)
+#### Ruby(ruby/ruby.md)
 - [A Beginners Guide to Ruby](http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/)
 - [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)
 - [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)
