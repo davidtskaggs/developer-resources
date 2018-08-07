@@ -1,6 +1,6 @@
 # Developer Resources Handbook
 
-1. #### [Coding Bootcamps](./bootcamps/bootcamps.md)
+#### 1. [Coding Bootcamps](./bootcamps/bootcamps.md)
 2. #### [Design](./design/design.md)
 3. #### [GitHub](./github/github.md)
 4. #### [HTML/CSS](./html-css/html-css.md)
