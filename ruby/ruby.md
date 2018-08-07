@@ -48,6 +48,7 @@
 - [Nokogiri for parsing HTML (and other stuff)](http://nokogiri.org/)
 
 ## Development Tools
+- [Debugging](debugging.md)
 - [Important RFCs](http://tangentsoft.net/rfcs/)
 - [Pry – an IRB Replacement](http://pryrepl.org/)
 - [Rubyists, It's Time to PRY Yourself Off IRB](http://www.sitepoint.com/rubyists-time-pry-irb/)
