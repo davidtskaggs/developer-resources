@@ -1,11 +1,6 @@
 # Developer Resources Handbook
 
-#### Design
-- [Design Thinking](http://en.wikipedia.org/wiki/Design_thinking)
-- [Design Thinking: What is that?](http://www.fastcompany.com/919258/design-thinking-what)
-- [Design Thinking Visually](http://visual.ly/what-design-thinking)
-- [A Beginners Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
-- [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
+#### [Design](./design/design.md)
 
 #### GitHub
 - [VIDEO: How to Use Git and GitHub](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
