@@ -6,10 +6,20 @@
 
 ## Ruby
 
+- [A Beginners Guide to Ruby](http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/)
+- [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)
+- [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
 - [Enumerable](http://ruby-doc.org/core-1.9.3/Enumerable.html)
 - [Most-Commonly Used Enumerable Methods](most-frequently-used-enumerables.md)
+- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope)
+- [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
+- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black3/)
+- [Humble little Ruby Book](http://www.humblelittlerubybook.com/)
+- [Eloquent Ruby](http://eloquentruby.com/)
+- [Confident Ruby](http://www.confidentruby.com/)
+
 
 ### Data
 
@@ -25,12 +35,15 @@
 - [Regex Examples](http://www.regular-expressions.info/examples.html)
 - [Regexper: Visualizing Regex](http://www.regexper.com/)
 
-### OO
+### Object-Oriented Design and Ruby Classes
 
 - [SOLID by UncleBob](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - [SOLID object oriented design](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - [memoization](http://en.wikipedia.org/wiki/Memoization)
 - [blind men and an elephant](http://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
+- [Practical Object-Oriented Design in Ruby (POODR - book)](http://www.poodr.com/)
+- [Writing our own Class in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
+- [Ruby Classes and Objects](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
 
 ### Useful Gems
 
@@ -47,3 +60,7 @@
 - [Incremental Garbage Collection in Ruby 2.2](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc/)
 - [Is Ruby pass by reference or value?](http://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value)
 
+#### Other Programming Concepts
+- [Algorithms in a Nutshell](http://shop.oreilly.com/product/9780596516246.do)
+- [Algorithm Design Manual](http://www.algorist.com/)
+- [Code Complete](http://www.cc2e.com/Default.aspx)
