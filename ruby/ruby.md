@@ -43,8 +43,8 @@
 - [Writing our own Class in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
 - [Ruby Classes and Objects](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
 
-## Useful Gems
-
+## Bundler, Gems, and the Gemfile
+- [Bundler and Gemfiles](bundler-gemfile.md)
 - [Nokogiri for parsing HTML (and other stuff)](http://nokogiri.org/)
 
 ## Development Tools
