@@ -8,5 +8,5 @@
 * #### [JavaScript](./js/js.md)
 * #### [Ruby](./ruby/ruby.md)
 * #### [SQL and Databases](./db/sql-db.md)
-* #### [Typing and Shortcuts](./shortcuts/shortcuts.md)
+* #### [Typing, Shortcuts, and Set-up](./shortcuts/shortcuts.md)
 * #### [Web Basics](./web/web.md)
