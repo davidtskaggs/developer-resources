@@ -1,4 +1,4 @@
-#JavaScript
+# JavaScript
 
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
