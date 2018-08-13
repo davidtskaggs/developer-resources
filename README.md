@@ -1,7 +1,7 @@
 # Developer Resources Handbook
 
+* #### [Career Resources](./career/career.md)
 * #### [Coding Bootcamps](./bootcamps/bootcamps.md)
-* #### [Career Resources](./careers/careers.md)
 * #### [Design](./design/design.md)
 * #### [Email Coding](./email-coding/email-coding.md)
 * #### [GitHub](./github/github.md)
